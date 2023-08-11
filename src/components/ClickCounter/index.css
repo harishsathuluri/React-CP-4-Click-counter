@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.content-heading {
+  font-family: 'Roboto';
+  font-size: 45px;
+  text-align: center;
+  align-items: center;
+}
+
+.content-para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: center;
+}
+
+.button1 {
+  background-color: blue;
+  border: 1px;
+  border-radius: 10px;
+}
