@@ -6,7 +6,7 @@ class ClickCounter extends Component {
   state = {count: 0}
 
   onClick = () => {
-    this.setState(prevState => ({count: this.prevState.count + 1}))
+    this.setState(prevState => ({count: prevState.count + 1}))
   }
 
   render() {
